@@ -18,7 +18,7 @@ Minhas estatísticas:
 
 [![mbuniowski GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuniowski&theme=cobalt)](https://github.com/mbuniowski/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuniowski&layout=compact)](https://github.com/Mbuniowski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuniowski&layout=pie&theme=cobalt)](https://github.com/Mbuniowski/github-readme-stats)
 
 <hr>
 
