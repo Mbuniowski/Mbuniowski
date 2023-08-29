@@ -18,4 +18,6 @@ Minhas estatísticas:
 
 [![Mbuniowski GitHub stats](https://github-readme-stats.vercel.app/api?username=Mbuniowski)](https://github.com/Mbuniowski/github-readme-stats)
 
+<hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mbuniowski&layout=compact)](https://github.com/Mbuniowski/github-readme-stats)
