@@ -2,6 +2,7 @@ Bem vindo! 🙋‍♀️
 
 <hr>
 
-Eu sou Michelle Buniowski.
+Eu sou Michelle Buniowski.<br>
+💻 Sou estudante de front-end.<br>
 
-Sou estudante de front-end.
+<hr>
